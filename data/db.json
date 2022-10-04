@@ -1,0 +1,40 @@
+{
+  "realties": [
+    {
+      "id": 1,
+      "image": "https://images.unsplash.com/photo-1507089947368-19c1da9775ae?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=876&q=80",
+      "type": "Casa",
+      "price": "2.323.000",
+      "address": "Rua Conselheiro Laurindo",
+      "region": "Centro, Curitiba PR",
+      "area": 120,
+      "bedrooms": 3,
+      "vacancies": 2,
+      "isFavorited": false
+    },
+    {
+      "id": 2,
+      "image": "https://images.unsplash.com/photo-1507086182422-97bd7ca2413b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Nnx8cmVhbHR5fGVufDB8fDB8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "type": "Apartamento",
+      "price": "9.321.000",
+      "address": "Rua dos Bobos",
+      "region": "Varzea, Butia RS",
+      "area": 61,
+      "bedrooms": 1,
+      "vacancies": 0,
+      "isFavorited": false
+    },
+    {
+      "id": 3,
+      "image": "https://images.unsplash.com/photo-1495433324511-bf8e92934d90?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1yZWxhdGVkfDZ8fHxlbnwwfHx8fA%3D%3D&auto=format&fit=crop&w=500&q=60",
+      "type": "Loft",
+      "price": "1.311.000",
+      "address": "Av. Centro dos guri",
+      "region": "Zona Leste",
+      "area": 33.25,
+      "bedrooms": 2,
+      "vacancies": 3,
+      "isFavorited": false
+    }
+  ]
+}
